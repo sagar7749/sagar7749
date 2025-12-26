@@ -1,6 +1,50 @@
 # 💫 About Me:
 Frontend Developer working on scalable web and Electron applications using React and TypeScript, with hands-on experience in backend development and databases.<br><br>🧠 I’m currently working on:<br>• Electron desktop apps (window lifecycle, notifications)<br>• Advanced filtering logic in React & TypeScript<br>• Performance and UX improvements in production applications<br><br>💼 Professional experience:<br>• Previously worked with Core PHP, Laravel, and Node.js for backend development<br>• Built and integrated REST APIs and server-side logic<br>• Hands-on experience with MySQL, MongoDB, and Firebase (Realtime DB / Firestore)<br><br>🚀 Key projects:<br>• Geometra – Feature development and bug fixing in a production environment<br>• Rukkor – Frontend (React) and Electron app development, including filters, window handling, and performance optimization<br><br>🤝 I’m looking to collaborate on:<br>• Open-source React or Electron projects<br>• Productivity tools and meaningful UI/UX improvements<br><br>🙏 I’m looking for help with:<br>• Electron performance optimization<br>• Advanced TypeScript patterns<br><br>🌱 I’m currently learning:<br>• Electron internals<br>• Clean and scalable frontend architecture<br><br>💬 Ask me about:<br>• React filters and state management<br>• Electron app debugging and real-world issues<br><br>⚡ Fun fact:<br>I enjoy fixing complex bugs more than building new features.<br>
 
+Frontend Developer working on scalable web and Electron applications using React and TypeScript, with hands-on experience in backend development and databases.<br><br>
+
+🌐 Personal Portfolio:<br>
+<a href="https://malisagar-in.vercel.app/" target="_blank">https://malisagar-in.vercel.app/</a><br><br>
+
+🧠 I’m currently working on:<br>
+• Electron desktop apps (window lifecycle, notifications)<br>
+• Advanced filtering logic in React & TypeScript<br>
+• Performance and UX improvements in production applications<br><br>
+
+💼 Professional experience:<br>
+• Previously worked with Core PHP, Laravel, and Node.js for backend development<br>
+• Built and integrated REST APIs and server-side logic<br>
+• Hands-on experience with MySQL, MongoDB, and Firebase (Realtime DB / Firestore)<br><br>
+
+🚀 Key projects:<br>
+• <b>Geometra</b> – Feature development and bug fixing in a production environment<br>
+• <b>Rukkor</b> – Frontend (React) and Electron app development, including filters, window handling, and performance optimization<br><br>
+
+🔧 Tech stack:<br>
+• React, TypeScript, Electron<br>
+• Core PHP, Laravel, Node.js<br>
+• MySQL, MongoDB, Firebase<br><br>
+
+🤝 I’m looking to collaborate on:<br>
+• Open-source React or Electron projects<br>
+• Productivity tools and meaningful UI/UX improvements<br><br>
+
+🙏 I’m looking for help with:<br>
+• Electron performance optimization<br>
+• Advanced TypeScript patterns<br><br>
+
+🌱 I’m currently learning:<br>
+• Electron internals<br>
+• Clean and scalable frontend architecture<br><br>
+
+💬 Ask me about:<br>
+• React filters and state management<br>
+• Electron app debugging and real-world issues<br><br>
+
+⚡ Fun fact:<br>
+I enjoy fixing complex bugs more than building new features.
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_sagar_mali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagar-mali-136841119) 
